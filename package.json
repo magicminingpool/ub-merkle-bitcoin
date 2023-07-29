@@ -1,0 +1,18 @@
+{
+    "main": "merkle.js",
+    "name": "merkle-bitcoin",
+    "version": "1.0.0",
+    "description": "Bitcoin-style merkle root generation.",
+    "homepage": "https://github.com/jorgezaccaro/merkle-bitcoin",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jorgezaccaro/merkle-bitcoin.git"
+    },
+    "keywords": [
+        "merkle",
+        "bitcoin"
+    ],
+    "dependencies": {
+        "async": "^1.2.1"
+    }
+}
